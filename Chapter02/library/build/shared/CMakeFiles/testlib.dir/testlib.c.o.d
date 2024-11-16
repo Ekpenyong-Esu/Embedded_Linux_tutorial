@@ -1,0 +1,29 @@
+shared/CMakeFiles/testlib.dir/testlib.c.o: \
+ /home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/shared/testlib.c \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/stdc-predef.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/stdio.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/libc-header-start.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/features.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/features-time64.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/wordsize.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/timesize.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/sys/cdefs.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/long-double.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/gnu/stubs.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/gnu/stubs-hard.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/lib/gcc/arm-cortex_a8-linux-gnueabihf/13.2.0/include/stddef.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/lib/gcc/arm-cortex_a8-linux-gnueabihf/13.2.0/include/stdarg.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/types.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/typesizes.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/time64.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/types/__fpos_t.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/types/__mbstate_t.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/types/__fpos64_t.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/types/__FILE.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/types/FILE.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/types/struct_FILE.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/types/cookie_io_functions_t.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/stdio_lim.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/floatn.h \
+ /home/mahonri/x-tools/arm-cortex_a8-linux-gnueabihf/arm-cortex_a8-linux-gnueabihf/sysroot/usr/include/bits/floatn-common.h \
+ /home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/shared/../inc/testlib.h

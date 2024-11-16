@@ -20,3 +20,4 @@ if [ $? != 0 ]; then echo "ERROR"; exit; fi
 make ARCH=arm CROSS_COMPILE=arm-unknown-linux-gnueabi- dtbs
 if [ $? != 0 ]; then echo "ERROR"; exit; fi
 
+

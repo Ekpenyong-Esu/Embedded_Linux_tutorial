@@ -1,0 +1,8 @@
+/home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/build/CMakeFiles/edit_cache.dir
+/home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/build/CMakeFiles/rebuild_cache.dir
+/home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/build/shared/CMakeFiles/testlib.dir
+/home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/build/shared/CMakeFiles/edit_cache.dir
+/home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/build/shared/CMakeFiles/rebuild_cache.dir
+/home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/build/hello-arm/CMakeFiles/hello-arm.dir
+/home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/build/hello-arm/CMakeFiles/edit_cache.dir
+/home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/build/hello-arm/CMakeFiles/rebuild_cache.dir

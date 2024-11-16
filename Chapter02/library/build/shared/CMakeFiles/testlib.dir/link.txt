@@ -1,0 +1,1 @@
+arm-cortex_a8-linux-gnueabihf-gcc -fPIC  -Wall -Wall -g -fPIC -shared -Wl,-soname,libtestlib.so -o libtestlib.so CMakeFiles/testlib.dir/testlib.c.o 

@@ -1,0 +1,1 @@
+arm-cortex_a8-linux-gnueabihf-gcc  -Wall -Wall "CMakeFiles/hello-arm.dir/hello-arm.c.o" -o hello-arm  -Wl,-rpath,/home/mahonri/Desktop/Embedded-Linux-Project/Chapter02/library/build/shared ../shared/libtestlib.so 
